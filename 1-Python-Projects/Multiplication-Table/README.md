@@ -10,22 +10,20 @@ The program uses nested loops to calculate and display all multiplication combin
 - Displays each multiplication equation
 - Adds a separator line after each row
 
-## Output Example
-#### 1 * 1 = 1
-#### 1 * 2 = 2
-#### 1 * 3 = 3
-#### 1 * 4 = 4
-#### 1 * 5 = 5
-#### 1 * 6 = 6
-#### 1 * 7 = 7
-#### 1 * 8 = 8
-#### 1 * 9 = 9
-#### 1 * 10 = 10
+---
+| output Example |
+|---|
+| 1 * 1 = 1 |
+| 1 * 2 = 2 |
+| 1 * 3 = 3 |
+| 1 * 4 = 4 |
+| 1 * 5 = 5 |
+| 1 * 6 = 6 |
+| 1 * 7 = 7 |
+| 1 * 8 = 8 |
+| 1 * 9 = 9 |
+| 1 * 10 = 10 |
 
-and
-
-| output | Example | Multiplication |
-|---|---|---|
 | 2 * 1 = 2 |
 | 2 * 2 = 4 |
 | 2 * 3 = 6 |
@@ -36,3 +34,4 @@ and
 | 2 * 8 = 16 |
 | 2 * 9 = 18 |
 | 2 * 10 = 20 |
+---
