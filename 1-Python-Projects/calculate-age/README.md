@@ -17,9 +17,3 @@ This program takes a user's name and age in years, then calculates the equivalen
 
 - Python 3.x
 - No external dependencies (uses only standard library)
-
-## Installation
-
-```bash
-git clone <repository-url>
-cd age-calculator
