@@ -23,7 +23,9 @@ The program uses nested loops to calculate and display all multiplication combin
 #### 1 * 10 = 10
 
 and
-_ _ _ _ _ _ _
+
+| output | Example | Multiplication |
+|---|---|---|
 | 2 * 1 = 2 |
 | 2 * 2 = 4 |
 | 2 * 3 = 6 |
