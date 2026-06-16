@@ -4,7 +4,7 @@ import asyncio  # For asynchronous operations
 from googletrans import Translator  # For Google Translate API
 
 # Read Persian words from CSV file
-data = pd.read_csv("Persian_word.csv")
+data = pd.read_csv("persian_word.csv")
 
 # Create translator instance
 translator = Translator()
