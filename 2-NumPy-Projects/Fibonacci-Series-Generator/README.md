@@ -18,8 +18,8 @@ The program:
 
 ## Fibonacci Sequence Explained
 
-The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones:
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+#### The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones:
+* 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
 
 
 **Formula:** `F(n) = F(n-1) + F(n-2)` where `F(0) = 0` and `F(1) = 1`
