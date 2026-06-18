@@ -30,16 +30,16 @@ students.plot(
 ```
 ## Common Plot Types:
 >### Bar chart
->df.plot(kind="bar")
+>```df.plot(kind="bar")```
 
 >### Line chart
->df.plot(kind="line")
+>```df.plot(kind="line")```
 
 >### Scatter plot
->df.plot(kind="scatter", x="col1", y="col2")
+>```df.plot(kind="scatter", x="col1", y="col2")```
 
 >### Histogram
->df.plot(kind="hist")
+>```df.plot(kind="hist")```
 
 >### Pie chart
->df.plot(kind="pie", y="column")
+>```df.plot(kind="pie", y="column")```
