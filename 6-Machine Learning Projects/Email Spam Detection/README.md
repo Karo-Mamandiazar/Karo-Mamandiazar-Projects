@@ -49,8 +49,8 @@ This project builds and compares multiple machine learning models to detect spam
 
 ---
 
----
-## 📁 Project Structure
+```
+📁 Project Structure
 email-spam-detection/
 │
 ├── data/
@@ -69,8 +69,8 @@ email-spam-detection/
 │ └── predict.py # Prediction script
 │
 ├── requirements.txt # Dependencies
-├── README.md # Project documentation
----
+└── README.md # Project documentation
+```
 
 ## 📈️ How It Works
 
