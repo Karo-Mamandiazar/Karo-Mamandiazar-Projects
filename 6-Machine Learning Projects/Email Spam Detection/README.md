@@ -32,32 +32,16 @@ This project builds and compares multiple machine learning models to detect spam
 - Scikit-learn
 - Matplotlib
 
----
 
-## 📊 Model Performance
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-| Logistic Regression | | | | |
-| Decision Tree | | | | |
-| KNN | | | | |
-| Random Forest | | | | |
-| SVM | | | | |
-| Stacking Classifier | | | | |
-
-*(Update with your actual results)*
-
----
-
+## 📁 Project Structure
 ```
-📁 Project Structure
-email-spam-detection/
+Email Spam Detection/
 │
 ├── data/
 │ └── spam.csv # Dataset
 │
 ├── notebooks/
-│ └── spam_detection.ipynb # Jupyter notebook
+│ └── spam-email-detection.ipynb # Jupyter notebook
 │
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
